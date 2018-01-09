@@ -18,7 +18,7 @@ div.log-details.invalid {
 	background-color: #fdd;
 }
 
-td { padding-left: 2em;
+td { padding-left: 1em;
 
 	vertical-align:top;
 }
@@ -30,7 +30,9 @@ img.thumbnail {
 }
 
 #panvision {
-	margin-bottom: 5em;
+	margin-bottom: 50px;
+	white-space-collapse: discard;
+	font-size: 0;
 }
 
 a.smallicon {
