@@ -18,7 +18,10 @@ div.log-details.invalid {
 	background-color: #fdd;
 }
 
-td { padding-left: 2em;}
+td { padding-left: 2em;
+
+	vertical-align:top;
+}
 
 tr.nth-child(3) { color: white; }
 img.thumbnail {
