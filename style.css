@@ -1,17 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+* {
+	font-family: 'VT323', monospace;
+}
 body {
-
-
+	background-color: rgb(255, 204, 0);
 }
 
 tr.invalid {
 	background-color: #fdd;
 }
 
+img.gif {
+	width: 50px;
+}
 div.log-details.invalid {
 	background-color: #fdd;
 }
 
+td { padding-left: 2em;}
 
+tr.nth-child(3) { color: white; }
 img.thumbnail {
 	width: 100%;
 	max-width: 80em;
