@@ -1,0 +1,18 @@
+body {
+
+
+}
+
+tr.invalid {
+	background-color: #fdd;
+}
+
+div.log-details.invalid {
+	background-color: #fdd;
+}
+
+
+img.thumbnail {
+	width: 100%;
+	max-width: 80em;
+}
