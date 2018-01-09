@@ -28,3 +28,11 @@ img.thumbnail {
 	width: 100%;
 	max-width: 80em;
 }
+
+#panvision {
+	margin-bottom: 5em;
+}
+
+a.smallicon {
+	border: 0;
+}
